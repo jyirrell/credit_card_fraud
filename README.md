@@ -5,4 +5,3 @@ Most of my recent ML projects had been using regression algorithms.  As such I w
 
 ## Background of the data
 Since the CSV is too large to easily upload, the original data and more information can be found [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  It was taken from an older kaggle competition and all work that I completed on my project was carried out without looking at any of the previous solutions.
-
